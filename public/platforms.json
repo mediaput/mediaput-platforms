@@ -1,9 +1,245 @@
-{
-  "data": [
-    {
-      "name": "百家号",
-      "code": "baijiahao",
-      "logo_url": "https://mediaput.cn/assets/channel/baijiahao.webp"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "51CTO",
+    "code": "51cto",
+    "logo_url": "https://mediaput.cn/assets/channel/51cto.webp",
+    "site_url": "https://blog.51cto.com/",
+    "description": "国内知名IT技术社区，提供IT资讯、技术博客、在线教育等服务，拥有大量IT从业者用户"
+  },
+  {
+    "id": 2,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "简书",
+    "code": "jianshu",
+    "logo_url": "https://mediaput.cn/assets/channel/jianshu.webp",
+    "site_url": "https://www.jianshu.com/",
+    "description": "优质创作社区，专注于文字创作和阅读，支持多种内容形式，用户群体以文艺青年和知识创作者为主"
+  },
+  {
+    "id": 3,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "稀土掘金",
+    "code": "juejin",
+    "logo_url": "https://mediaput.cn/assets/channel/juejin.webp",
+    "site_url": "https://juejin.cn",
+    "description": "面向开发者的技术社区，提供技术文章、教程、开源项目等内容，涵盖前端、后端、移动端等多个技术领域"
+  },
+  {
+    "id": 4,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "开源中国",
+    "code": "oschina",
+    "logo_url": "https://mediaput.cn/assets/channel/oschina.webp",
+    "site_url": "https://oschina.net/",
+    "description": "国内最大的开源技术社区，专注于开源软件和技术交流，提供开源项目托管、技术资讯、问答等服务"
+  },
+  {
+    "id": 5,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "语雀",
+    "code": "yuque",
+    "logo_url": "https://mediaput.cn/assets/channel/yuque.webp",
+    "site_url": "https://www.yuque.com/",
+    "description": "阿里云旗下的知识管理平台，支持文档编写、团队协作、知识沉淀等功能，适合个人和团队使用"
+  },
+  {
+    "id": 6,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "知乎",
+    "code": "zhihu",
+    "logo_url": "https://mediaput.cn/assets/channel/zhihu.webp",
+    "site_url": "https://www.zhihu.com/",
+    "description": "综合性知识问答社区，用户可以提问、回答、分享知识，涵盖科技、人文、娱乐等多个领域"
+  },
+  {
+    "id": 7,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "百家号",
+    "code": "baijiahao",
+    "logo_url": "https://mediaput.cn/assets/channel/baijiahao.webp",
+    "site_url": "https://baijiahao.baidu.com/",
+    "description": "百度旗下的内容创作平台，支持图文、视频等多种内容形式，拥有庞大的流量和用户基础"
+  },
+  {
+    "id": 8,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "微信公众号",
+    "code": "weixin",
+    "logo_url": "https://mediaput.cn/assets/channel/weixin.webp",
+    "site_url": "https://mp.weixin.qq.com/",
+    "description": "微信生态内的内容发布平台，支持图文、音频、视频等多种内容形式，是自媒体创作者的重要阵地"
+  },
+  {
+    "id": 9,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "豆瓣",
+    "code": "douban",
+    "logo_url": "https://mediaput.cn/assets/channel/douban.webp",
+    "site_url": "https://www.douban.com/",
+    "description": "以书影音评论和社交为特色的社区平台，用户可以分享读书、观影、音乐等体验，形成独特的文化氛围"
+  },
+  {
+    "id": 29,
+    "created_at": "2026-11-20T09:29:36+00:00",
+    "name": "小黑盒",
+    "code": "xiaoheihe",
+    "logo_url": "https://mediaput.cn/assets/channel/xiaoheihe.webp",
+    "site_url": "https://www.xiaoheihe.cn/",
+    "description": "国内领先的第三方综合游戏平台，始终致力于为玩家提供更好的体验与服务。目前主营产品有小黑盒、小黑盒加速器、黑盒语音、黑盒工坊等。累计服务超9000w玩家，是玩家心中兼具专业与人情味的游戏伙伴。"
+  },
+  {
+    "id": 30,
+    "created_at": "2026-11-20T09:40:21+00:00",
+    "name": "知识星球",
+    "code": "zsxq",
+    "logo_url": "https://mediaput.cn/assets/channel/zsxq.webp",
+    "site_url": "https://www.zsxq.com/",
+    "description": "知识星球是创作者连接铁杆粉丝、实现知识变现的工具。 内容创作、沉淀管理、社群运营,一站完成"
+  },
+  {
+    "id": 10,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "网易号",
+    "code": "163",
+    "logo_url": "https://mediaput.cn/assets/channel/163.webp",
+    "site_url": "https://mp.163.com/",
+    "description": "网易旗下的内容创作平台，支持图文、视频等多种内容形式，依托网易的媒体资源和用户基础"
+  },
+  {
+    "id": 11,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "博客园",
+    "code": "cnblogs",
+    "logo_url": "https://mediaput.cn/assets/channel/cnblogs.webp",
+    "site_url": "https://www.cnblogs.com/",
+    "description": "老牌IT技术博客平台，专注于技术分享和交流，拥有大量资深开发者用户"
+  },
+  {
+    "id": 12,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "企鹅号",
+    "code": "qq_om",
+    "logo_url": "https://mediaput.cn/assets/channel/qq_om.webp",
+    "site_url": "https://om.qq.com/",
+    "description": "腾讯旗下的内容创作平台，支持图文、视频等多种内容形式，可分发到腾讯新闻、QQ浏览器等多个渠道"
+  },
+  {
+    "id": 13,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "什么值得买",
+    "code": "smzdm",
+    "logo_url": "https://mediaput.cn/assets/channel/smzdm.webp",
+    "site_url": "https://www.smzdm.com/",
+    "description": "专注于消费决策的社区平台，用户可以分享好物推荐、优惠信息等内容，形成独特的消费文化"
+  },
+  {
+    "id": 14,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "CSDN",
+    "code": "csdn",
+    "logo_url": "https://mediaput.cn/assets/channel/csdn.webp",
+    "site_url": "https://www.csdn.net/",
+    "description": "国内最大的IT技术社区，提供技术文章、教程、论坛等服务，拥有庞大的开发者用户群体"
+  },
+  {
+    "id": 15,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "今日头条",
+    "code": "toutiao",
+    "logo_url": "https://mediaput.cn/assets/channel/toutiao.webp",
+    "site_url": "https://www.toutiao.com/",
+    "description": "字节跳动旗下的综合资讯平台，支持图文、视频等多种内容形式，依托强大的算法推荐能力"
+  },
+  {
+    "id": 16,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "哔哩哔哩",
+    "code": "bilibili",
+    "logo_url": "https://mediaput.cn/assets/channel/bilibili.webp",
+    "site_url": "https://www.bilibili.com/",
+    "description": "以ACG内容为特色的视频平台，拥有庞大的年轻用户群体，支持UGC和PGC内容创作"
+  },
+  {
+    "id": 17,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "微博",
+    "code": "weibo",
+    "logo_url": "https://mediaput.cn/assets/channel/weibo.webp",
+    "site_url": "https://weibo.com/",
+    "description": "国内领先的社交媒体平台，支持短文本、图片、视频等多种内容形式，是热点话题和舆论的重要发源地"
+  },
+  {
+    "id": 19,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "腾讯云开发者社区",
+    "code": "tencent_cloud",
+    "logo_url": "https://mediaput.cn/assets/channel/tencent_cloud.webp",
+    "site_url": "https://cloud.tencent.com/developer/",
+    "description": "腾讯云旗下的开发者社区，提供云技术文档、教程、案例等内容，支持开发者学习和交流"
+  },
+  {
+    "id": 20,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "阿里云开发者社区",
+    "code": "aliyun",
+    "logo_url": "https://mediaput.cn/assets/channel/aliyun.webp",
+    "site_url": "https://developer.aliyun.com/",
+    "description": "阿里云旗下的开发者社区，提供云技术文档、教程、案例等内容，支持开发者学习和交流"
+  },
+  {
+    "id": 21,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "SegmentFault",
+    "code": "segmentfault",
+    "logo_url": "https://mediaput.cn/assets/channel/segmentfault.webp",
+    "site_url": "https://segmentfault.com/",
+    "description": "面向开发者的技术社区，提供问答、教程、开源项目等内容，专注于技术交流和分享"
+  },
+  {
+    "id": 22,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "搜狐号",
+    "code": "sohu",
+    "logo_url": "https://mediaput.cn/assets/channel/sohu.webp",
+    "site_url": "https://mp.sohu.com/",
+    "description": "搜狐旗下的内容创作平台，支持图文、视频等多种内容形式，依托搜狐的媒体资源和用户基础"
+  },
+  {
+    "id": 18,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "小红书",
+    "code": "xiaohongshu",
+    "logo_url": "https://mediaput.cn/assets/channel/xiaohongshu.webp",
+    "site_url": "https://creator.xiaohongshu.com/",
+    "description": "以生活方式分享为特色的社区平台，用户可以分享美妆、穿搭、美食等内容，形成独特的种草文化"
+  },
+  {
+    "id": 23,
+    "created_at": "2026-04-02T09:23:33.900071+00:00",
+    "name": "慕课网",
+    "code": "imooc",
+    "logo_url": "https://mediaput.cn/assets/channel/imooc.webp",
+    "site_url": "https://www.imooc.com/",
+    "description": "国内领先的IT在线教育平台，提供丰富的IT课程和实战项目，支持学习者提升技术能力"
+  },
+  {
+    "id": 25,
+    "created_at": "2026-06-03T10:00:00.965438+00:00",
+    "name": "大鱼号",
+    "code": "dayu",
+    "logo_url": "https://mediaput.cn/assets/channel/dayu.webp",
+    "site_url": "https://mp.dayu.com/",
+    "description": "阿里大文娱旗下自媒体创作分发平台，2017 年由 UC 订阅号、优酷自频道整合上线。创作者一次发文，内容可分发至 UC、优酷、夸克等阿里多端产品。平台支持图文、短视频创作，依托阿里电商资源，创作者可通过流量分成、创作补贴、内容带货实现收益。"
+  },
+  {
+    "id": 24,
+    "created_at": "2026-05-18T06:34:47.700284+00:00",
+    "name": "抖音",
+    "code": "douyin",
+    "logo_url": "https://mediaput.cn/assets/channel/douyin.webp",
+    "site_url": "https://creator.douyin.com/",
+    "description": "字节跳动旗下的短视频社交平台，于2016年9月上线。它以短视频内容为核心，用户可以通过手机快速创作、编辑并分享15秒到几分钟的短视频，平台还提供丰富的特效、滤镜和背景音乐等创作工具。"
+  }
+]
